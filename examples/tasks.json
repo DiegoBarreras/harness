@@ -1,0 +1,18 @@
+[
+  {
+    "task": "Cambiar el nombre de una variable",
+    "expectedRoute": "quick"
+  },
+  {
+    "task": "Implementar un endpoint REST para crear usuarios",
+    "expectedRoute": "standard"
+  },
+  {
+    "task": "Rediseñar la arquitectura de autenticación del sistema",
+    "expectedRoute": "deep"
+  },
+  {
+    "task": "Revisar una implementación existente contra sus requerimientos",
+    "expectedRoute": "review"
+  }
+]
